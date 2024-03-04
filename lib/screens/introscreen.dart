@@ -42,7 +42,7 @@ class _IntroScreenState extends State<IntroScreen> {
               //),
             ),
             const Text(
-              'Ask Gita',
+              'Hello World',
               style: TextStyle(
                 color: Color.fromARGB(255, 1, 1, 1),
                 fontWeight: FontWeight.bold,
